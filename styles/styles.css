@@ -1,0 +1,64 @@
+body {
+  background: #eeeeee;
+}
+
+#mainHeading {
+  font-family: "Anton", sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  margin: 40px 20px 10px;
+  padding: 0;
+  color: #111111;
+}
+
+#subHeading {
+  font-family: "Anton", sans-serif;
+  font-size: 36px;
+  margin: 10px 20px 10px;
+  text-align: center;
+  padding: 0;
+  color: #333333;
+}
+
+#author {
+  font-family: "Anton", sans-serif;
+  font-size: 24px;
+  margin: 10px 20px 10px;
+  text-align: center;
+  padding: 0;
+  color: #333333;
+}
+
+#author-link {
+  text-decoration: none;
+  color: #333333;
+}
+
+#author-link:hover {
+  text-decoration: underline;
+}
+
+.red {
+  background: #ff1616;
+}
+
+.orange {
+  background: #ff7716;
+}
+
+.yellow {
+  background: #fff716;
+}
+
+.green {
+  background: #16ff16;
+}
+
+.blue {
+  background: #166fff;
+}
+
+.purple {
+  background: #c416ff;
+}
